@@ -3,7 +3,7 @@
   "name": "LinkedIn Data Extractor",
   "version": "1.0",
   "permissions": [
-    "activeTab"
+    "tabs","activeTab"
   ],
   "host_permissions": [
     "http://localhost/3000",
